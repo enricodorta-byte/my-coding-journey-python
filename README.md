@@ -22,7 +22,7 @@ All commits are real and incremental to show genuine progress.
 | Period       | Topic                              | Status   |
 |--------------|------------------------------------|----------|
 | Jan 2026     | Repository setup & first scripts   | ✅       |
-| Jan 2026     | Variables, input/output, conditions| ⏳       |
+| Jan 2026     | Variables, input/output, conditions| ✅       |
 | ...          | ...                                |          |
 
 ### Resources I'm using
