@@ -23,7 +23,8 @@ All commits are real and incremental to show genuine progress.
 |--------------|------------------------------------|----------|
 | Jan 2026     | Repository setup & first scripts   | ✅       |
 | Jan 2026     | Variables, input/output, conditions| ✅       |
-| ...          | ...                                |          |
+| Jan 2026     | Conditions, if/else & decisions    | ✅       |
+| Coming soon  ! ⏳                                
 
 ### Resources I'm using
 - Books: *Automate the Boring Stuff with Python*, *Python Crash Course*
