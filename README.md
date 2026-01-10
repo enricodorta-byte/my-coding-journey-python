@@ -1,34 +1,39 @@
-# My Python Coding Journey for AI & Robotics 🤖🚀
+# Python Learning Journey for AI & Robotics
 
-**From Retail Manager to Future AI Engineer**  
-Started: January 03, 2026  
-Target: Diploma in Informatics & Telecommunications (iScuola 2027) → Bachelor/Master in Artificial Intelligence at USI Lugano
+Self-paced progression from Python fundamentals to AI applications.  
+**Background**: Former retail manager transitioning to Artificial Intelligence Engineering.  
+**Goal**: Master in Artificial Intelligence at USI Lugano.
 
-### About this repository
-This is my public learning journal. I document every step:
-- Daily exercises and concepts
-- Notes on key topics
-- Mini-projects progressing toward AI, Machine Learning, and Robotics
-
-All commits are real and incremental to show genuine progress.
+### Repository Structure
+- `basics/` → Core Python concepts and exercises
+- `data-structures/` → Data structures and algorithms
+- `notes/` → Key concepts and summaries
+- `projects/` → Mini-projects and applications
 
 ### Roadmap 2026
-- **Jan-Mar**: Python basics (variables, control flow, functions, OOP)
-- **Apr-Jun**: Data structures, algorithms, core libraries (NumPy, Pandas, Matplotlib)
-- **Jul-Sep**: Introduction to Machine Learning (scikit-learn)
-- **Oct-Dec**: Deep Learning fundamentals (PyTorch) + first AI projects
+- **Jan-Mar** : Python basics (variables, control flow, functions, OOP)
+- **Apr-Jun** : Data structures, algorithms, core libraries (NumPy, Pandas, Matplotlib)
+- **Jul-Sep** : Introduction to Machine Learning (scikit-learn)
+- **Oct-Dec** : Deep Learning fundamentals (PyTorch) + first AI projects
 
 ### Progress Tracker
-| Period       | Topic                              | Status   |
-|--------------|------------------------------------|----------|
-| Jan 2026     | Repository setup & first scripts   | ✅       |
-| Jan 2026     | Variables, input/output, conditions| ✅       |
-| Jan 2026     | Conditions, if/else & decisions    | ✅       |
-| Coming soon  ! ⏳                                
+| Period       | Topic                                      | Status   |
+|--------------|--------------------------------------------|----------|
+| Jan 2026     | Repository setup & first scripts           | ✅       |
+| Jan 2026     | Variables, input/output, basic operations  | ✅       |
+| Jan 2026     | Conditional statements (if/else)           | ✅       |
+| Coming soon  | Loops (for/while) & repetition             | ⏳       |
 
-### Resources I'm using
+### Current Exercises
+- `basics/hello_world.py` → Basic output and input
+- `basics/variables_and_types.py` → Variables and data types
+- `basics/conditions.py` → Conditional logic with user input
+
+All commits are incremental and reflect daily learning progress.
+
+### Resources
 - Books: *Automate the Boring Stuff with Python*, *Python Crash Course*
-- Courses: freeCodeCamp Python, Coursera/Andrew Ng Machine Learning
+- Courses: freeCodeCamp Python, Coursera - Andrew Ng Machine Learning
 - YouTube: Corey Schafer, Sentdex (AI-focused)
 
-One commit at a time. Let's build the future! 💪
+One commit at a time.
