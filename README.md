@@ -22,7 +22,8 @@ Self-paced progression from Python fundamentals to AI applications.
 | Jan 2026     | Repository setup & first scripts           | ✅       |
 | Jan 2026     | Variables, input/output, basic operations  | ✅       |
 | Jan 2026     | Conditional statements (if/else)           | ✅       |
-| Coming soon  | Loops (for/while) & repetition             | ⏳       |
+| Jan 2026     | Loops (for/while) & repetition             | ✅       |
+! Coming soon  | Loops (for/while) & iteration              | ⏳       |
 
 ### Current Exercises
 - `basics/hello_world.py` → Basic output and input
