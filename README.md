@@ -25,7 +25,8 @@ Self-paced progression from Python fundamentals to AI applications.
 | Jan 2026     | Loops (for/while) & repetition             | ✅       |
 | Jan 2026     | Loops (for/while) & iteration              | ✅       |
 | Jan 2026     | Function & modular code                    | ✅       |
-| Coming Soon  | Lists, tuples & basic data structures      | ⏳       |
+| Jan 2026     | Lists, tuples & basic data structures      | ✅       |
+| Coming Soon  | File I/O & data persistence                | ⏳       |
 
 ### Current Exercises
 - `basics/hello_world.py` → Basic output and input
